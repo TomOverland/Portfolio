@@ -25,6 +25,7 @@ body {
 }
 
 .biography p {
+    font-family: "Open Sans"
     padding: 1rem;
 }
 
