@@ -24,6 +24,10 @@ body {
     color: #45a29e;
 }
 
+.biography p {
+    padding: 1rem;
+}
+
 .biography ul {
     list-style: none;
 }
