@@ -6,7 +6,7 @@
     list-style: none;
 }
 
-.container img {
+.portfolio-img {
     max-width: 300px;
     max-height: 300px;
     width: 100%;
@@ -15,4 +15,8 @@
 
 .projects {
     padding-top: 1rem;
+}
+
+form {
+    margin: 1rem 2rem;
 }
