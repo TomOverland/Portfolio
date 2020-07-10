@@ -30,6 +30,10 @@ body {
     font-family: Roboto, Arial, Helvetica, sans-serif;
 }
 
+.container h3 {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
 .container li {
     font-family: "Open Sans", Arial, Helvetica, sans-serif;
 }
