@@ -1,5 +1,5 @@
-#Tom Overland's Portfolio
+# Tom Overland's Portfolio
 
 
-#Tech/framework used
+# Tech/framework used
 Built with Bootstrap, HTML, & CSS.
