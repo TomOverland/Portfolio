@@ -23,15 +23,16 @@ body {
 }
 
 .container h1 {
-    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
 }
 
 .container h2 {
-    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .container h3 {
-    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .container li {
@@ -45,6 +46,10 @@ body {
 
 .biography ul {
     list-style: none;
+}
+
+.biography li {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
 }
 
 .portfolio-img {
