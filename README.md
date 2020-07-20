@@ -1,7 +1,7 @@
 # Tom Overland's Portfolio
 
 ## Link to Deployed Project
-tomoverland.github.io/portfolio/
+https://tomoverland.github.io/Portfolio/
 
 ## Tech/framework used
 Built with Bootstrap, HTML, & CSS.
