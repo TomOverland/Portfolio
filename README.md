@@ -1,5 +1,5 @@
 # Tom Overland's Portfolio
-![image of landing page](link)
+![image of landing page](https://github.com/TomOverland/Portfolio/blob/master/assets/PortfolioImage.JPG)
 ![image of portfolio page](link)
 
 ## Link to Deployed Project
