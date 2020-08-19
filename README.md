@@ -6,7 +6,7 @@
 Change Repo name to tomoverland.github.io    
 
 ## Link to Deployed Project
-https://tomoverland.github.io/Portfolio/
+https://tomoverland.github.io/
 
 ## Tech/framework used
 Built with Bootstrap, HTML, & CSS.
