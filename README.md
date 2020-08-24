@@ -4,7 +4,7 @@
 https://tomoverland.github.io/  
 
 ![image of landing page](https://github.com/TomOverland/tomoverland.github.io/blob/master/assets/IndexImg.JPG)
-![image of portfolio page](https://github.com/TomOverland/Portfolio/blob/master/assets/PortfolioImage2.JPG)
+![image of portfolio page](https://github.com/TomOverland/tomoverland.github.io/blob/master/assets/ProjectsImg.JPG)
 
 ## Description
 This is my professional portfolio.  Please review my work, and contact me if you are interested in working with me!
