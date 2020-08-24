@@ -17,12 +17,16 @@ body {
     color: #feffff;
 }
 
-.gray {
-    color: #17252a;
-}
-
 .darkwhite {
     color: #def2f1;
+}
+
+.gray {
+    color: #DEDEDE ;
+}
+
+.red {
+    color: #FF3333;
 }
 
 .container h1 {
