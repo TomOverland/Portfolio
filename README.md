@@ -12,8 +12,6 @@ This is my professional portfolio.  Please review my work, and contact me if you
 ## Built With
 HTML  
 CSS  
-JavaScript  
-jQuery  
 
 Framework: Bootstrap 4
 
