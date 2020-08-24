@@ -3,7 +3,7 @@
 ## Link to Deployed Project
 https://tomoverland.github.io/  
 
-![image of landing page](https://github.com/TomOverland/Portfolio/blob/master/assets/PortfolioImage.JPG)
+![image of landing page](https://github.com/TomOverland/tomoverland.github.io/blob/master/assets/IndexImg.JPG)
 ![image of portfolio page](https://github.com/TomOverland/Portfolio/blob/master/assets/PortfolioImage2.JPG)
 
 ## Description
