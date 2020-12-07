@@ -1,5 +1,7 @@
 # Tom Overland's Portfolio
 
+I am no longer updating this portfolio.  Please see my up-to-date portfolio [here](https://www.tomoverland.com).
+
 ## Link to Deployed Project
 https://tomoverland.github.io/  
 
